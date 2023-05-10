@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+
+.block {
+    padding: 10px;
+    min-width: 400px;
+    max-width: 200px;
+    border: 1px solid rgb(221, 59, 59);
+    
+}
+
+.text2 {
+    color: red;
+}
